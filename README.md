@@ -31,7 +31,7 @@ Even-Odd-Checker/
 
 ## How to Run
 
-1. Clone or download the project.
+1. Clone or download the project. https://github.com/kjwashim/Task-13-JavaScript-If-Else-and-Switch
 2. Open the project folder.
 3. Open `index.html` in your browser.
 4. Press **F12** and open the **Console** tab.
